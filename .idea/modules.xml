@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/6-6.iml" filepath="$PROJECT_DIR$/6-6.iml" />
+      <module fileurl="file://C:\Users\taiso\Downloads\as_samples_2_2_20160920\Chap6_WeatherForecasts\6-6\Chap6-WeatherForecasts.iml" filepath="C:\Users\taiso\Downloads\as_samples_2_2_20160920\Chap6_WeatherForecasts\6-6\Chap6-WeatherForecasts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
